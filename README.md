@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Steven. Nice to meet you!
-I am a third year electrical engineering student at the University of British Columbia. Welcome to my github :partying_face:
+## Hi there 👋, I'm Steven. 
+I am a third year electrical engineering student at the University of British Columbia. Welcome to my github! :partying_face:
 
 <h2 align="center">What I'm Up To</h2>
 <details>
