@@ -10,18 +10,18 @@ I am a third year electrical engineering student at the University of British Co
   - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board
   - Modular design with smaller modules such as ALU, controller, datapath, regfile, and shifter 
   - Utilized ModelSim and Quartus for thorough verification and FPGA deployment on a DE1-SoC board
-    
-  #### [Reflow Oven Controller Project](https://github.com/Shengw3n/Reflow-Oven-Controller)
-  - **Languages and tools:** Assembly, Python, 8051 Microcontroller
-  - Developed in assembly a Reflow Oven Controller for surface mount device soldering
-  - Implemented temperature measurement and control with an 8051 microcontroller and a K-type thermocouple
-  - Developed an interface with an LCD display and pushbuttons for user interaction as well as email notifications
 
   #### [Metal Detector Robot Project](https://github.com/Shengw3n/Remote-Controlled-Metal-Detector-Robot)
   - **Languages and tools:** C, STM32 microcontroller, EFM8 microcontroller
   - Developed in C a battery-powered, remote-controlled robot capable of detecting metals
   - Integrated a metal detector with real-time strength display and audio alerts via a remote controller
   - Implemented autonomous driving capabilities and user interface for remote operation
+    
+  #### [Reflow Oven Controller Project](https://github.com/Shengw3n/Reflow-Oven-Controller)
+  - **Languages and tools:** Assembly, Python, 8051 Microcontroller
+  - Developed in assembly a Reflow Oven Controller for surface mount device soldering
+  - Implemented temperature measurement and control with an 8051 microcontroller and a K-type thermocouple
+  - Developed an interface with an LCD display and pushbuttons for user interaction as well as email notifications
 
   #### [SPI Temperature Data Logging Using Python](https://github.com/Shengw3n/SPI-Data-Logging-Using-Python)
   - **Languages and tools:** Python, 8051 Microcontroller
