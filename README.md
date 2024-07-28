@@ -29,9 +29,11 @@ I am a third year electrical engineering student at the University of British Co
   - Created an SPI data logging system to log and visualize data from a 8051 microcontroller using Python
   - Configured SPI communication between the 8051 microcontroller and a computer
   - Implemented real-time data logging, processing, and visualization using matplotlib and numpy
+</details>
 
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
 
   ### [UBC Rocket - Thrust Vector Rocket]([https://github.com/UBC-Rocket/Thrust-Vectoring](https://www.ubcrocket.com))
   I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control to ensure stable and accurate thrust vectoring for hovering and precision landing.
+</details>
