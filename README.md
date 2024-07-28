@@ -34,6 +34,11 @@ I am a third year electrical engineering student at the University of British Co
 <details open>
   <summary>Current Projects</summary>
 
-  ### [UBC Rocket - Thrust Vector Rocket]([https://github.com/UBC-Rocket/Thrust-Vectoring](https://www.ubcrocket.com))
+  ### [UBC Rocket - Thrust Vector Rocket](https://www.ubcrocket.com)
   I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control to ensure stable and accurate thrust vectoring for hovering and precision landing.
+
+  ### [Personal Blog](https://github.com/Shengw3n/Shengw3n.github.io)
+  - My personal blog where I share my weekly reports and various engineering adventures.
+  - Built using the static [Hexo framework](https://hexo.io/index.html) with the [Fluid theme](https://hexo.fluid-dev.com/docs/en/).
+  - Deployed via [GitHub Pages](https://pages.github.com/).
 </details>
