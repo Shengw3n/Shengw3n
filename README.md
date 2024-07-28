@@ -38,6 +38,6 @@ I am a third year electrical engineering student at the University of British Co
 
   ### [Personal Blog](https://github.com/Shengw3n/Shengw3n.github.io)
   - My personal blog where I share my weekly reports and various engineering adventures
-  - Devevloped in JavaScript using the NodeJS-based [Hexo framework](https://hexo.io/index.html) with the [Fluid theme](https://hexo.fluid-dev.com/docs/en/)
+  - Developed in JavaScript using the NodeJS-based [Hexo framework](https://hexo.io/index.html) with the [Fluid theme](https://hexo.fluid-dev.com/docs/en/)
   - Deployed via [GitHub Pages](https://pages.github.com/) @ [shengw3n.github.io](https://shengw3n.github.io)
 </details>
