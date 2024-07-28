@@ -25,7 +25,7 @@ I am a third year electrical engineering student at the University of British Co
 
   #### [SPI Temperature Data Logging Using Python](https://github.com/Shengw3n/SPI-Data-Logging-Using-Python)
   - **Languages and tools:** Python, 8051 Microcontroller
-  - Created an SPI data logging system to log and visualize data from a 8051 microcontroller using Python
+  - Developed in Python an SPI data logging system to log and visualize data from a 8051 microcontroller
   - Configured SPI communication between the 8051 microcontroller and a computer
   - Implemented real-time data logging, processing, and visualization using matplotlib and numpy
 </details>
