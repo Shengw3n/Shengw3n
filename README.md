@@ -34,7 +34,7 @@ I am a third year electrical engineering student at the University of British Co
   <summary>:open_file_folder:Current Projects</summary>
 
   ### [UBC Rocket - Thrust Vector Rocket](https://www.ubcrocket.com)
-  I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control to ensure stable and accurate thrust vectoring for active stabilization and precision landing. 
+  I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control to ensure consistent and accurate thrust vectoring for active stabilization and precision landing. 
 
   **Award**: [Launch Canada 2024](http://www.launchcanada.org/lc-competition-2024) Technology Development Category Second Place
 
