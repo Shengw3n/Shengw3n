@@ -34,9 +34,9 @@ I am a third year electrical engineering student at the University of British Co
   <summary>:open_file_folder:Current Projects</summary>
 
   ### [UBC Rocket - Thrust Vector Rocket](https://www.ubcrocket.com)
-  I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control to ensure consistent and accurate thrust vectoring for active stabilization and precision landing. 
+  I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and controls lead. Our current algorithm utilizes PID control for precise stabilization and Kalman filtering for accurate state estimation.
 
-  **Award**: Second Place, [Launch Canada 2024](http://www.launchcanada.org/lc-competition-2024) Technology Development Category
+  **Achievement**: Second Place, Technology Demonstration Category at Launch Canada 2024, Canada's premier rocketry competition featuring over 400 participants from 25 universities.
 
 
   ### [Personal Blog](https://github.com/Shengw3n/Shengw3n.github.io)
