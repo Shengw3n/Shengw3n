@@ -39,8 +39,5 @@ I am a third year electrical engineering student at the University of British Co
   **Achievement**: Second Place, Technology Demonstration Category at Launch Canada 2024, Canada's premier rocketry competition featuring over 400 participants from 25 universities.
 
 
-  ### [Personal Blog](https://github.com/Shengw3n/Shengw3n.github.io)
-  - My personal blog where I share my weekly reports and various engineering adventures
-  - Developed in JavaScript using the NodeJS powered Hexo framework with the Fluid theme
-  - Deployed via GitHub Pages @ [shengw3n.github.io](https://shengw3n.github.io)
+  ### [Personal Blog]([https://github.com/Shengw3n/Shengw3n.github.io](https://github.com/Shengw3n/personal-website))
 </details>
