@@ -23,13 +23,6 @@ I am a third year electrical engineering student at the University of British Co
   - Implemented temperature measurement and control with an 8051 microcontroller and a K-type thermocouple
   - Developed an interface with an LCD display and pushbuttons for user interaction as well as email notifications
 
-  #### [SPI Temperature Data Logging Using Python](https://github.com/Shengw3n/SPI-Data-Logging-Using-Python)
-  - **Languages and tools:** Python, 8051 Microcontroller
-  - Developed in Python an SPI data logging system to log and visualize data from a 8051 microcontroller
-  - Configured SPI communication between the 8051 microcontroller and a computer
-  - Implemented real-time data logging, processing, and visualization using matplotlib and numpy
-</details>
-
 <details open>
   <summary>:open_file_folder:Current Projects</summary>
 
@@ -38,6 +31,3 @@ I am a third year electrical engineering student at the University of British Co
 
   **Achievement**: Second Place, Technology Demonstration Category at Launch Canada 2024, Canada's premier rocketry competition featuring over 400 participants from 25 universities.
 
-
-  ### [Personal Blog](https://github.com/Shengw3n/personal-website)
-</details>
