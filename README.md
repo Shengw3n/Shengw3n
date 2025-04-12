@@ -22,6 +22,8 @@ I am a third year electrical engineering student at the University of British Co
   - Developed in assembly a Reflow Oven Controller for surface mount device soldering
   - Implemented temperature measurement and control with an 8051 microcontroller and a K-type thermocouple
   - Developed an interface with an LCD display and pushbuttons for user interaction as well as email notifications
+ </details>
+ 
 
 <details open>
   <summary>:open_file_folder:Current Projects</summary>
@@ -30,4 +32,7 @@ I am a third year electrical engineering student at the University of British Co
   I am currently contributing to UBC Rocket's self-landing rocket project, the Thrust Vector Rocket, as the project manager and firmware lead. Our current algorithm utilizes PID control for precise stabilization and Kalman filtering for accurate state estimation.
 
   **Achievement**: Second Place, Technology Demonstration Category at Launch Canada 2024, Canada's premier rocketry competition featuring over 400 participants from 25 universities.
+
+ </details>
+ 
 
